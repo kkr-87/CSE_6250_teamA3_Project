@@ -23,4 +23,4 @@ The csv files used from the dataset are:
 - PATIENTS.csv
 
 ### Functionality and running the code
-All code we have developed so far is availble in the file CSE6250_Project_Code.ipynb. To run the code open the notebook and press "Run all". Each cell's function is described within the notebook.
+All code we have developed so far is availble in the file CSE6250_Project_Code2.ipynb. To run the code open the notebook and press "Run all". Each cell's function is described within the notebook.
